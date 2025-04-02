@@ -7,8 +7,8 @@ Welcome to my GitHub repository! Here you get multiple miniprojects built using 
 | #  | Project Name | Description | Technologies Used | Link |
 |----|-------------|-------------|-------------------|------|
 | 1  | [Tic-Tac-Toe in Pharo](projects/tic-tac-toe-pharo/Blog-tictactoe.md) | A simple Tic-Tac-Toe game implemented in Pharo using Morphic and Cormas. | Pharo, Morphic, Cormas | [View Project](https://github.com/PrasannaPal21/Pharo-TicTacToeGame) |
-| 2  | [LinkedList - Pharo](projects/project-2/README.md) | Short description of the second project. | Tech Stack | [View Project](https://github.com/PrasannaPal21/Pharo-LinkedList) |
-| 3  | [LinearRegression - Pharo](projects/project-3/README.md) | Short description of the third project. | Tech Stack | [View Project](https://github.com/PrasannaPal21/Pharo-LinearRegression) |
+| 2  | [LinkedList - Pharo](projects/project-2/README.md) | Short description of the second project. | Pharo, Cormas | [View Project](https://github.com/PrasannaPal21/Pharo-LinkedList) |
+| 3  | [LinearRegression - Pharo](projects/project-3/README.md) | Short description of the third project. | Pharo, Cormas | [View Project](https://github.com/PrasannaPal21/Pharo-LinearRegression) |
 
 
 ## 📂 Repository Structure
