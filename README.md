@@ -7,8 +7,9 @@ Welcome to my GitHub repository! Here you get multiple miniprojects built using 
 | #  | Blog Links | Description | Technologies Used | Link |
 |----|-------------|-------------|-------------------|------|
 | 1  | [Tic-Tac-Toe in Pharo](tic-tac-toe-pharo/Blog-tictactoe.md) | A simple Tic-Tac-Toe game implemented in Pharo using Morphic and Cormas. | Pharo, Morphic, Cormas | [Project Repo](https://github.com/PrasannaPal21/Pharo-TicTacToeGame) |
-| 2  | [LinkedList - Pharo](LinkedList-Pharo/Blog-linkedlist.md) | Implementation of LinkedList using pharo, Cormas in completely object oriented programming. | Pharo, Cormas | [Project Repo](https://github.com/PrasannaPal21/Pharo-LinkedList) |
-| 3  | [LinearRegression - Pharo](LinearRegression-Pharo/Blog-linearregression.md) | Linear Regression calculation in Pharo, Cormas. | Pharo, Cormas | [Project Repo](https://github.com/PrasannaPal21/Pharo-LinearRegression) |
+| 2  | [Calculator in Pharo](Calculator-Pharo/Blog-calculator.md) | A basic calculator app implemented in Pharo using Morphic and Cormas. | Pharo, Morphic, Cormas | [Project Repo]([https://github.com/PrasannaPal21/Pharo-TicTacToeGame](https://github.com/PrasannaPal21/Pharo-Calculator)) |
+| 3  | [LinkedList - Pharo](LinkedList-Pharo/Blog-linkedlist.md) | Implementation of LinkedList using pharo, Cormas in completely object oriented programming. | Pharo, Cormas | [Project Repo](https://github.com/PrasannaPal21/Pharo-LinkedList) |
+| 4  | [LinearRegression - Pharo](LinearRegression-Pharo/Blog-linearregression.md) | Linear Regression calculation in Pharo, Cormas. | Pharo, Cormas | [Project Repo](https://github.com/PrasannaPal21/Pharo-LinearRegression) |
 
 
 ## 📂 Repository Structure
@@ -18,13 +19,16 @@ Welcome to my GitHub repository! Here you get multiple miniprojects built using 
 │── projects/
 │   ├── tic-tac-toe-pharo/
 │   │   ├── Blog-tictactoe.md
-│   │   ├── assets/ (Images & Screenshots)
+│   │   ├── screenshots...
+│   ├── Calculator-pharo/
+│   │   ├── Blog-calculator.md
+│   │   ├── screenshots...
 │   ├── LinkedList-Pharo/
 │   │   ├── Blog-LinkedList.md
-│   │   ├── assets/ (Images & Screenshots)
+│   │   ├── Screenshots...
 │   ├── LinearRegression-Pharo/
 │   │   ├── Blog-LinearRegression.md
-│   │   ├── assets/ (Images & Screenshots)
+│   │   ├── screenshots...
 │── README.md (Index for all projects)
 ```
 
