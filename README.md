@@ -31,7 +31,7 @@ Welcome to my GitHub repository! Here you get multiple miniprojects built using 
 
 ## 🔗 Stay Connected
 - **GitHub**: [click here](https://github.com/PrasannaPal21)
-- **LinkedIn**: [click here](www.linkedin.com/in/prasanna-pal-542992274)
+- **LinkedIn**: [click here](https://www.linkedin.com/in/prasanna-pal-542992274)
 
 Happy Coding! 🚀
 
