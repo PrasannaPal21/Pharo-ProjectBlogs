@@ -1,4 +1,4 @@
-# 🚀 My Pharo Mini-Projects Blogs
+# 🚀 My Pharo Blogs
 
 Welcome to my GitHub repository! Here you get multiple miniprojects built using different technologies associated with pharo. Each project is well-documented and includes setup instructions, features, and screenshots in their particular repository.
 
